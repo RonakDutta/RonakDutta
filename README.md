@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonakDutta
 - 👀 I’m interested in DSA, Web Development, Data Science and Cloud Computing
-- 🌱 I’m currently learning HTML, CSS, JavaScript, R.
+- 🌱 I'm specialised in React.js, Node.js, Express, PostgreSQL/MongoDB, Python, FastAPI
 - 💞️ I’m looking to collaborate on anything that's related to above mentioned field
 - 📫 How to reach me, my email id - ronakdutta100@gmail.com
 - 😄 Pronouns: he/him
